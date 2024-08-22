@@ -1,0 +1,40 @@
+body {
+    background: url("https://i.pinimg.com/564x/78/8d/aa/788daabb64a41f147f5f9a9f9e7304a5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pera {
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(245, 158, 50);
+    text-align: center;
+}
+
+.uva{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    margin: 150px 130px;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(212, 171, 56);
+    font-size: 30px;
+
+}
+
+.uva:hover{
+    background-color: #6ae2e2;
+    border: 1px dashed #ff5c5c;
+    color: #343232;
+}
+
+.melon {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+

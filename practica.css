@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(231, 103, 243);
+    color: white;
+}
+
+.miclase{
+    color: rgb(92, 5, 126);
+    font-size: 50px;
+
+}
+.btn{
+    background-color: rgb(3, 56, 3);
+    font-size: 40px;
+    color: white;
+    padding: 20px 30px;
+    border-radius: 15px;
+} 
+.btn:hover{
+    background-color: wheat;
+    color: black;
+    border: 2px dashed red;
+    transition: all 2s ease-in-out;
+}
+img{
+    border-radius: 56px;
+}
+@keyframes mianimation {
+    0%
+    transfor: translateY(0px);
+}
+50%
+transfor: translateY(-10px);
